@@ -1,0 +1,41 @@
+.main {
+  border: 2px solid black;
+  background-color: black;
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+.result {
+  width: 95%;
+  background-color: gold;
+  color: black;
+  outline: gold;
+  border-radius: 6px;
+}
+
+.clearbtn {
+  width: 100%;
+  margin-top: 4px;
+  background-color: gold;
+  border-radius: 5px;
+}
+.btn {
+  width: 45px;
+  margin: 1px;
+  background-color: gold;
+  border-radius: 5px;
+}
+.halfbtn {
+  width: 96.5px;
+  margin-top: 2px;
+  background-color: gold;
+  border-radius: 5px;
+}
+
+.fullbtn {
+  width: 96px;
+  margin-top: 2px;
+  background-color: gold;
+  margin-left: 1.7px;
+  border-radius: 6px;
+}
